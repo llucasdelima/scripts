@@ -1,2 +1,2 @@
 # gamingscripts
-Scripts for gaming
+Simple scripts with quality of life modifications.
